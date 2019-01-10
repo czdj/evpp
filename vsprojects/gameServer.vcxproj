@@ -11,17 +11,17 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\apps\gameServer\main.cc" />
+    <ClCompile Include="..\apps\game_server\main.cc" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\apps\gameServer\winmain-inl.h" />
+    <ClInclude Include="..\apps\game_server\winmain-inl.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{C5786EF0-A814-4D10-BEAC-94BA7DE30DCE}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>gameServer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
-    <ProjectName>gameServer</ProjectName>
+    <ProjectName>game_server</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -72,9 +72,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "udp-echo", "udpecho.vcxproj
 		{4877AA94-AD55-407F-9ED3-D4503FAB2A7F} = {4877AA94-AD55-407F-9ED3-D4503FAB2A7F}
 	EndProjectSection
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gameServer", "gameServer.vcxproj", "{C5786EF0-A814-4D10-BEAC-94BA7DE30DCE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "game_server", "gameServer.vcxproj", "{C5786EF0-A814-4D10-BEAC-94BA7DE30DCE}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gameServer", "gameServer", "{2B8C2F42-4476-41B9-B46A-1095B9522C86}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "game_server", "game_server", "{2B8C2F42-4476-41B9-B46A-1095B9522C86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
